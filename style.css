@@ -52,31 +52,19 @@ h2{
 	line-height: 4em;
 }
 
+.btn2{
+	color: #fff;
+	text-decoration: none;
+	padding: 10px 15px;
+	border-radius: 8px;
+	line-height: 4em;
+}
+
+.btn:hover{
+	color: #f9f5ae;
+	border: #f9f5ae 1px solid;
+
 #particles-js{
 	height: 100%;
 	background: #262626;
-}
-
-a:link {
-    color: green; 
-    background-color: transparent; 
-    text-decoration: none;
-}
-
-a:visited {
-    color: pink;
-    background-color: transparent;
-    text-decoration: none;
-}
-
-a:hover {
-    color: red;
-    background-color: transparent;
-    text-decoration: underline;
-}
-
-a:active {
-    color: yellow;
-    background-color: transparent;
-    text-decoration: underline;
 }
