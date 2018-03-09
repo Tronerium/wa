@@ -54,10 +54,14 @@ h2{
 
 .btn2{
 	color: #fff;
-	text-decoration: none;
+	text-decoration: underline overline solid white;
 	padding: 10px 15px;
 	border-radius: 8px;
 	line-height: 4em;
+}	
+	.btn:hover{
+	color: #f9f5ae;
+	border: #f9f5ae 1px solid;
 }
 
 #particles-js{
