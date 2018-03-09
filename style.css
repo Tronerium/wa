@@ -60,10 +60,6 @@ h2{
 	line-height: 4em;
 }
 
-.btn:hover{
-	color: #f9f5ae;
-	border: #f9f5ae 1px solid;
-
 #particles-js{
 	height: 100%;
 	background: #262626;
